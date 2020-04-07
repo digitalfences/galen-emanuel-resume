@@ -1,0 +1,15 @@
+{
+  "name": "galen-emanuel-resume",
+  "version": "1.0.0",
+  "description": "a resume printer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Galen Emanuel",
+  "license": "ISC",
+  "bin": {
+    "your-command-here":"./index.js"
+  }
+
+}

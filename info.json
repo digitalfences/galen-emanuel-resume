@@ -1,0 +1,21 @@
+{
+    "name": "Galen Emanuel",
+    "website": "https://digitalfences.github.io/",
+    "linkedin": "https://www.linkedin.com/in/galen-emanuel/",
+    "github": "digitalfences",
+    "email": "galen.emanuel.fencing@gmail",
+     "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Node",
+        "Java",
+        "C++",
+        "HTML",
+        "CSS"
+    ],
+    "otherSkills": [
+        "Fencing",
+        "Cooking",
+        "Poker"
+    ]
+}
