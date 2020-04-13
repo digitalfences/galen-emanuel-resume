@@ -9,7 +9,7 @@
   "author": "Galen Emanuel",
   "license": "ISC",
   "bin": {
-    "your-command-here":"./index.js"
+    "print-resume":"./index.js"
   }
 
 }
